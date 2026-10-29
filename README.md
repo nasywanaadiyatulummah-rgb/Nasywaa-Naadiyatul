@@ -2,7 +2,9 @@
 ## Sistem Penyewaan Peralatan Camping
 
 -*Nama Lengkap:* Nasywaa Naadiyatulummah
+
 -*NIM:* C2583207031
+
 -*Nama Proyek:* Adventure Camp
 
 ### Deskripsi
