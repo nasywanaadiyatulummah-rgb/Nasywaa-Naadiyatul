@@ -1,6 +1,10 @@
 # ADVENTURE CAMP
 ## Sistem Penyewaan Peralatan Camping
 
+*Nama Lengkap:* Nasywaa Naadiyatulummah
+*NIM:* C2583207031
+*Nama Proyek:* Adventure Camp
+
 ### Deskripsi
 Adventure Camp adalah program penyewaan peralatan camping berbasis terminal. Program ini menyediakan fitur untuk melihat daftar peralatan, melakukan transaksi penyewaan, menghitung biaya sewa, dan melihat riwayat transaksi.
 
